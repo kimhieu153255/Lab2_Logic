@@ -1,0 +1,12 @@
+E
+  8
+-A   OR -B   OR -C    OR -D OR E
+-F   OR -G OR C
+-H OR D
+   -F OR B
+G
+  F
+H
+ A
+
+Giáo trình Cơ sở trí tuệ nhân tạo - Tô Hoài Bắc - Tô Hoài Việt

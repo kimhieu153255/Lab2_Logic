@@ -1,0 +1,24 @@
+8
+D OR R
+D OR S
+A OR Q OR -S
+A OR -Q OR S
+A OR -D OR -Q
+A OR -D OR -R
+-D OR -S
+-R OR S
+9
+A OR D OR S
+A OR Q OR -R
+Q OR -S
+A OR R OR -S
+-D OR -Q
+-D OR -R
+A OR -Q OR R
+R OR -S
+A OR D OR Q
+2
+Q OR -R
+A OR D OR R
+0
+NO

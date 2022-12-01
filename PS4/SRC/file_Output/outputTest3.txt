@@ -1,0 +1,32 @@
+7
+A OR -D OR S
+-A OR -D
+A OR B
+-B OR S
+A OR D OR S
+-B
+A OR B OR S
+6
+-D
+-B OR -D OR S
+A OR S
+-B OR D OR S
+A OR D
+B OR -D OR S
+3
+-B OR D
+-A OR -D OR S
+-A OR -B OR S
+2
+B OR S
+D OR S
+2
+-A OR S
+S
+1
+B OR D OR S
+2
+-A OR D OR S
+-A OR B OR S
+0
+NO
